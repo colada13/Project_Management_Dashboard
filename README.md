@@ -20,3 +20,6 @@ With this data we can draw analysis based on specific filtering or overall monit
 
    
 ![Screenshot 2023-07-28 174335](https://github.com/colada13/Project_Management_Dashboard/assets/112157807/805fa846-9533-466e-9beb-a35c23bbc530)
+
+
+The template can be used in your own dashboard by downloading the file with "pbit" extension
