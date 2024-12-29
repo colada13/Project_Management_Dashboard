@@ -25,6 +25,16 @@ The dashboard offers:
 
 ![Screenshot 2023-07-28 174335](https://github.com/colada13/Project_Management_Dashboard/assets/112157807/805fa846-9533-466e-9beb-a35c23bbc530)
 
+
+
+With this data we can draw analysis based on specific filtering or overall monitoring:
+1. A selection of project and project type can be seen which will help with analytics on basis of specific project combinations
+2. Region-wise project cost and benefits is shown in the pie chart with the total sum
+3. Phase wise segregation of projects can be seen as well
+4. Project summary has been shown as a table for further information
+5. Segregation of projects (as a count) for each manager is shown as a barchart
+6. Individual KPI values on cost reduction, income generation,working capital and process improvement values
+
 ## Repository Structure
 The repository contains the following files:
 - `Project Management Dataset.csv`: The dataset used for analysis.
@@ -52,16 +62,6 @@ To view and interact with the dashboard, ensure you have the following software 
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements or suggestions.
-
-
-With this data we can draw analysis based on specific filtering or overall monitoring:
-1. A selection of project and project type can be seen which will help with analytics on basis of specific project combinations
-2. Region-wise project cost and benefits is shown in the pie chart with the total sum
-3. Phase wise segregation of projects can be seen as well
-4. Project summary has been shown as a table for further information
-5. Segregation of projects (as a count) for each manager is shown as a barchart
-6. Individual KPI values on cost reduction, income generation,working capital and process improvement values
-
 
 
 The template can be used in your own dashboard by downloading the file with "pbit" extension
